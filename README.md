@@ -1,0 +1,2 @@
+# Student-Grading
+1) Add a Major field to the Student class definition. Update the student.h and student.cpp files to include the additional field. Be sure to include a get and set method for the Major field. 2) Add several majors such as CIS, Math, English, etc. to the students in the array of students located in the main program. 3) When displaying the list of student ID numbers and student names, also display their major. 4) Change some of the ID numbers and GPAs to illegal values. Have the program detect and display an error message when the illegal values are present.
